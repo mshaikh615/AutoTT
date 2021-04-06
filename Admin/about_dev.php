@@ -7,7 +7,7 @@
 <title>Scheduling System</title>
 <style type="text/css">
 <!--
-.style4 {font-size: 13px;
+.style4 {font-size: 12px;
 	font-family: Verdana,  Helvetica, sans-serif;
 }
 #Layer2 {
