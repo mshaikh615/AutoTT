@@ -11,7 +11,7 @@
 .style20 {font-family: Georgia, "Times New Roman", Times, serif; font-size: x-small; }
 .style21 {font-size: x-small}
 .style22 {font-family: Geneva, Arial, Helvetica, sans-serif}
-.style30 {font-family: "Courier New", Courier, monospace}
+.style32 {font-family: "Courier New", Courier, monospace}
 .style4 {font-size: 11px;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 }
