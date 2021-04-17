@@ -12,7 +12,7 @@
 }
 #Layer2 {
 	position:absolute;
-	left:280px;
+	left:281px;
 	top:898px;
 	width:229px;
 	height:104px;
